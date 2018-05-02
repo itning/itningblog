@@ -79,8 +79,9 @@ theme: material
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-
+  type: git
+  repo: root@itning.top:/root/blog.git
+  branch: master
 
 search:
   path: search.xml
