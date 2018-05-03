@@ -1,2 +1,2 @@
 canvas-nest:
-    <script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js"></script>
+    <script>if($(window).width()>992){var newScript=document.createElement("script");newScript.type="text/javascript";newScript.src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js";$("body").append(newScript);}</script>
