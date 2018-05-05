@@ -15,3 +15,9 @@ baidu-auto-push:
         s.parentNode.insertBefore(bp, s);
     })();
     </script>
+360-auto-push:
+    <script>(function(){
+    var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?6ab470a7b3d9efc556ca5ba6cc7a9c90":"https://jspassport.ssl.qhimg.com/11.0.1.js?6ab470a7b3d9efc556ca5ba6cc7a9c90";
+    document.write('<script src="' + src + '" id="sozz"><\/script>');
+    })();
+    </script>
