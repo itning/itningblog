@@ -17,7 +17,7 @@ JAVA8 中所有Stream接口
 
 {% asset_img a.png a %}
 
-##count
+## count
 
 返回Stream中元素的数量
 
