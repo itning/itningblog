@@ -241,9 +241,9 @@ boolean orphanRemoval() default false;
 ## @JoinColumn
 
 ```java
-//外键名
+//外键名,生成字段的时候用这个名字
 String name() default "";
-//映射成表的字段名称
+//对应的关联字段名称,默认对面的主键
 String referencedColumnName() default "";
 //是否唯一
 boolean unique() default false;
