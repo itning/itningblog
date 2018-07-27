@@ -38,6 +38,12 @@ tags:
 
 
 
+## FrameLayout(帧布局)
+
+[Android 布局之FrameLayout](https://www.cnblogs.com/skywang12345/p/3154093.html)
+
+
+
 ## AppBarLayout(应用栏布局)
 
 {% asset_img AppBarLayout.gif AppBarLayout %}
@@ -122,6 +128,8 @@ tags:
 
 ## BottomNavigationBar(底部导航栏)
 
+[BottomNavigationView--基本使用总结](https://www.jianshu.com/p/aa499cc64f72)
+
 [Material Design 控件知识梳理(7) - BottomNavigationBar](https://www.jianshu.com/p/22ec4fc1cb71)
 
 
@@ -176,6 +184,23 @@ tags:
 [Material Design 之 Toolbar 开发实践总结](https://www.jianshu.com/p/e2ae6aaff696)
 
 [android：ToolBar详解（手把手教程）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1118/2006.html)
+
+
+
+## CardView(卡片)
+
+[CardView的使用](https://www.jianshu.com/p/b105019028b6)
+
+[# Android5.0 CardView的使用](https://www.jianshu.com/p/ae9d654599ef)
+
+[关于使用 CardView 开发过程中要注意的细节](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1025/3621.html)
+
+
+
+
+## PreferenceFragmentCompat 
+
+[官方教程](https://developer.android.com/reference/android/support/v7/preference/PreferenceFragmentCompat)
 
 
 
