@@ -5,10 +5,10 @@ comments: true
 date: 2018-03-31 18:53:17
 updated: 2018-03-31 18:53:17
 urlname: Docker-Dockerfile-creates-an-image
-categories: docker
+categories: Docker
 tags:
-- docker
-- dockerfile
+- Docker
+- Dockerfile
 - 镜像
 - 容器
 ---
