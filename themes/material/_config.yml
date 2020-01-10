@@ -263,7 +263,7 @@ comment:
     valine_lang: zh-cn # i18n
     valine_placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
     valine_guest_info: nick,mail,link #valine comment header info
-    gitalk_repo: https://github.com/itning/itningblog # git repo of the hexo
+    gitalk_repo: itningblog # git repo of the hexo
     gitalk_owner: itning # git repo's owner
     gitalk_client_id: 0022ab85e78ab33facc8 # github app client id
     gitalk_client_secret: 1dce0cf1bfdb28ae03aa672b6c7774c201325619 # github app client secret
