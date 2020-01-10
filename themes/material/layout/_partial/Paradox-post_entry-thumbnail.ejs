@@ -3,10 +3,8 @@
 
     var locatePost = $('.locate-thumbnail-symbol').next();
     for(var i = 0; i < <%= config.per_page %>; i++) {
-        randomNum = Math.floor(Math.random() * <%= theme.thumbnail.random_amount %> + 1);
-
-        locatePost.children('.post_thumbnail-random').attr('id', 'random_thumbnail-'+randomNum);
-        locatePost.children('.post_thumbnail-random').attr('data-original', '<%= url_for(theme.img.random_thumbnail) %>' + randomNum + '.png');
+        locatePost.children('.post_thumbnail-random').attr('id', 'random_thumbnail-'+i);
+        locatePost.children('.post_thumbnail-random').attr('data-original', '//source.unsplash.com/random/900x56'+i);
     $('.post_thumbnail-random').addClass('lazy');
 
         locatePost = locatePost.next();
