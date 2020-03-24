@@ -2,3 +2,7 @@
 My Blog Project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/67f55184-c8a9-468d-bfb9-ced2bc2503c1/deploy-status)](https://app.netlify.com/sites/competent-mayer-1f9375/deploys)
+
+已转移：[新地址](http://github.com/itning/blog)
+
+[博客地址](https://blog.itning.top)
